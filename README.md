@@ -42,3 +42,7 @@ This encryption tool is suitable for personal use, secure file sharing, or acade
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/408ea833-be74-4bc7-be67-1c19b40a0975)
+
+![Image](https://github.com/user-attachments/assets/d5e40f23-a3d7-4b8d-9a11-3a3982014138)
+
+![Image](https://github.com/user-attachments/assets/1fc93f4a-44a1-436a-b5b6-66ee8fc742a0)
