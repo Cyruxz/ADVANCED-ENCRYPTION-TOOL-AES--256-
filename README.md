@@ -40,3 +40,5 @@ Combines the IV and encrypted data into one file for easy handling
 This encryption tool is suitable for personal use, secure file sharing, or academic projects. It ensures confidentiality of files and is lightweight, portable, and can be extended further (e.g., add drag-and-drop, file overwrite prompts, or key storage options).
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/408ea833-be74-4bc7-be67-1c19b40a0975)
